@@ -1,3 +1,6 @@
-# MSCS532 Assignment 1
+# MSCS532 Algorithms and Data Structures
 
-Implementation of insertion sort that sorts an array in monotonically decreasing order.
+Repository for course assignments.
+
+- [Assignment 2](assignment2/) — Divide-and-Conquer Algorithms
+- [Assignment 3](assignment3/) — Algorithm Efficiency and Scalability
